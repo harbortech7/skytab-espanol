@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /online-ordering-worksheet
+Allow: /
+
+Host: https://skytab.com
+
+Sitemap: https://skytab.com/sitemap.xml
